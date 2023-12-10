@@ -3,6 +3,7 @@
 
 ![com_](https://github.com/sravani-buguru/ZOMATO_EDA_PROJECT/assets/147702072/36738e02-f056-40d7-bdcc-73625c10d598)
 ![com_ (2)](https://github.com/sravani-buguru/ZOMATO_EDA_PROJECT/assets/147702072/d72968a3-24e6-4592-8a38-9efbffb8d545)
+
 [com_ (1)](https://github.com/sravani-buguru/ZOMATO_EDA_PROJECT/assets/147702072/9cf3dacb-926b-49be-8b0a-3680c2cff9d5)
 
 # Description
