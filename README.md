@@ -6,8 +6,15 @@
 
 # Description
 
-Zomato API Analysis is one of the most useful analysis for foodies who want to taste the best cuisines of every part of the world which lies in their budget. This analysis is also for those who want to find the value for money restaurants in various parts of the country for the cuisines. Additionally, this analysis caters the needs of people who are striving to get the best cuisine of the country and which locality of that country serves that cuisines with maximum number of restaurants. -Downloaded restaurant data from Kaggle website for more than 10000 restaurants across world. -Ingested this data ,found missing values, normalize revenue numbers to standard format using python,Pandas, jupyter notebook along with some other statistical techniques by using Numpy -For analysis of restaurants used Excel. For Visulization used Matplotlib and Seaborn . -Figured out India(94.39%) has more Zomato transactions following up by United States(4.73%) and Uinted Kingdom(0.87%).
-
+Performed an Exploratory Data Analysis (EDA) on the Zomato dataset, consisting of information about restaurants all over the World. The analysis included data cleaning, exploration, visualization, and interpretation of key insights.
+Used Data Analysis for Cleaning, wrangling, and exploration of large datasets.
+Used Data Visualization for Creating insightful graphs and charts using libraries like matplotlib and seaborn.
+Performed Statistical Analysis for Calculating descriptive statistics and identifying correlations between variables.
+Project Highlights:
+Identified the top 3 countires that use Zomato the most and Identified top 5 states from India that uses more Zomato.
+Analyzed the relationship between cuisine, cost per person, and restaurant rating.
+Investigated the impact of various factors like  online ordering ,customer ratings etc.
+Developed interactive visualizations to explore the data and communicate findings effectively.
 
 ## Dataset
 
@@ -18,15 +25,12 @@ https://drive.google.com/file/d/1Te9PPtPYADhY7dn30QbOtuUD5aO8a5Mf/view?usp=shari
 ## Installation
 
 # -libraries
- pandas
-
- numpy
-
- matplotlib
- 
- seaborn 
-
-%matplotlib inline
+ Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
 
 
